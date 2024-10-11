@@ -44,9 +44,10 @@ h2 {
     width: 150px;
 }
 .intro {
-    width: 30%;
+    width: 50%;
     margin: auto;
     line-height: 2;
+    font-size: 26px;
 }
 .intro p{
     margin-bottom: 100px;
